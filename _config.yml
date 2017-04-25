@@ -7,10 +7,10 @@ highlighter: rouge
 logo: false
 paginate: 15
 baseurl: /
-domain_name: 'http://erwindehaan.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'https://erwindehaan.com'
+google_analytics: 'UA-5639573-12'
 gems: [jekyll-paginate]
 
 # Details for the RSS feed generator
-url:            'http://erwindehaan.com/'
+url:            'https://erwindehaan.com/'
 author:         'Erwin de Haan'
