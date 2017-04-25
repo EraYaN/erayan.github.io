@@ -2,7 +2,7 @@ name: Erwin de Haan's Blog
 description: Ramblings, mostly
 meta_description: "Erwin de Haan's Blog, Ramblings, mostly"
 
-permalink: date
+permalink: :year/:month/:title.html
 markdown: kramdown
 highlighter: rouge
 logo: false
